@@ -1,5 +1,5 @@
 <script>
-    import  pnum from 'norwegian-national-id-validator';
+    import pnum from 'norwegian-national-id-validator';
 
     let pnr = "";
 
