@@ -62,6 +62,14 @@
         <br>1462 Fjellhamar
     </p>
     <div class="no-print margin-top">
+        <p>
+            For å melde deg ut av statskirken kan du bruke denne linken: <a href="https://kirken.no/medlem">https://kirken.no/medlem</a>
+        </p>
+        <p>
+            Hvis du ikke vet hvilket trossamfunn du er medlem av, kan du ringe til
+            Brønnøysundregistrene på 75 00 75 00 og bestille et dokument med opplysninger om hvilke trossamfunn du er medlem av.
+        </p>
+
         <button on:click={() => window.print()}>
             Print
         </button>
